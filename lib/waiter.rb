@@ -14,6 +14,4 @@ class Waiter
     @@all
   end
  
-endclass Waiter
-
 end
